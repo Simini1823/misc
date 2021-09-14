@@ -1,0 +1,13 @@
+.special li {
+  list-style: url() outside;
+}
+
+pre {
+  font-size: .7rem;
+  margin: 0;
+  color: black
+}
+
+.style li {
+  list-style: inside url(https://uc-emoji.azureedge.net/orig/a8/3037f0389addfe580a391599c85f1b.png)
+}
