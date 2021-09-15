@@ -19,7 +19,9 @@ h1,h3{
 img{
 max-width:200px;
 }
-.listtype li{list-style-type: "\1F604";}
+.listtype li{
+  list-style-type: "\1F604";
+}
 .liststyle li {
   list-style: inside url(https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/broccoli_1f966.png);
 }
