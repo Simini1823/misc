@@ -1,7 +1,28 @@
+
+body {
+  background-color: #F9F7F7
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color:#DBE2EF;
+  width:7%
+}
 .special li {
   list-style: url() outside;
 }
-
+h1,h3{
+  color:#3F72AF
+}
+img{
+max-width:200px;
+}
+.listtype li{list-style-type: "\1F604";}
+.liststyle li {
+  list-style: inside url(https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/broccoli_1f966.png);
+}
 pre {
   font-size: .7rem;
   margin: 0;
